@@ -3,10 +3,27 @@ History
   Not too many different types of animals
   There is then suddenly a huge explosion in the no. of species in Animals
   Increased Diversity- predatory prey relationships etc. started evolving
-  People believe this change occured because of the coming of "eyes"
+  People believe this change occurred because of the coming of "eyes"
   "Eyes" => finding prey to eat. Biological Arms race
   Vision was the root!
   Renaissance:Camera Obscura by Leonardo da Vinci- very simple architecture
   There is a hole to capture light and some kind of reflection to capture
   image
-  
+  Then film camcorders and what not came into being.
+How does Vision work in our Biological Brain?
+  Tons of neurons working on vision
+  Primary Visual Cortex is furthest away from the eye. Vision is the hardest
+  cognitive system - 50%.
+  Cat was shown fish flower and there was very little spiking in Primary Visual
+  Cortex. This was before computers, now with computers people noticed that
+  there is spike in neurons only when there was a change between slides of fish
+  and flower. The in-betweens has something to do with oriented edges of images
+  and not what they are.
+  Larry Roberts- Block World, talks about how edges define Computer Vision
+  David Marr - Worked at MIT, wrote Vision.
+  High Level Architecture
+  Input Image -> Edges(2D) -> Layers (2.5D) -> 3D model
+  First Wave of Visual Recognition Algos: Generalized Cylinder - Brooks 1979
+  World is composed of cylinders and blocks and everything is composed of this
+  Pictorial Structure: Objects are mode of still simple parts that are connect
+  by springs(not really but in a way) that allow variability
