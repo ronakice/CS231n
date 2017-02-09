@@ -40,3 +40,5 @@ Image Classification
     We find k=7 to be best as it is peeking a plot of acc vs k
     k-NN is never used: Terrible performance at testing time
       Distance metrics on level of whole images can be unintuitive
+  Linear Classification:
+    NNs can see, hear, language, control(robots)
