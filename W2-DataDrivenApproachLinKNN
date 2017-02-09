@@ -42,3 +42,16 @@ Image Classification
       Distance metrics on level of whole images can be unintuitive
   Linear Classification:
     NNs can see, hear, language, control(robots)
+    Building blocks involved.
+    Image Captioning:
+      CNN(to see) -> RNN (to model sequences(in this case words))
+    KNN is nonparametric
+    in Lin Classification:f(x,W) x-image, W is parameters to give 10 numbers
+    indicating class scores
+    Image [32x32x3] we stretch it into a long vector
+    Suppose f(x,W)= W         x      + b
+              10x1  10x3072   3072x1   10x1
+    We resize images in this approach to 32x32 although not optimal
+    Score is a weighted sum of all the pixel vals
+    if you reshape rows of W to image we see a weirdish template image of each
+    label
