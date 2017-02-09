@@ -55,3 +55,6 @@ Image Classification
     Score is a weighted sum of all the pixel vals
     if you reshape rows of W to image we see a weirdish template image of each
     label
+    Mostly only captures colors which means it is not good at all
+    GreyScale will work terribly in linear classifiers too
+    The score is the output we get from this fn
