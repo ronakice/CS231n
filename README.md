@@ -1,2 +1,2 @@
 # CS231n
-Convolutional Neural Networks for Visual Recognition
+Notes for Convolutional Neural Networks for Visual Recognition
